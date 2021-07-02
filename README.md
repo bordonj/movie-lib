@@ -1,8 +1,9 @@
-# _Application Name_
+# _Movie Library_
 
 #### _App Name - 0X/XX/21 - Code Review00X_
 
 #### By _**Jennifer Bordon**_
+#### By _**Godfrey Owidi**_
 
 ## Technologies Used
 
